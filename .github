@@ -1,0 +1,11 @@
+CLASS __github(codespaces)__ .
+VAR CONF {
+    "machine-type" : "Linux - DEB", 
+    "machine-metadata" : {
+        "RAM" : "8Gb*", 
+        "ROM" : "32Gb*",
+        "Cores" : "4-Vcpus" 
+    },
+    "machine-name" : "Glowing Halibut",
+    "machine-user" : "pydb-dbms" 
+} .
